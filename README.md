@@ -1,4 +1,4 @@
-Dmitry Soloveov playrix test task
+Playable add
 
 npm i
 
